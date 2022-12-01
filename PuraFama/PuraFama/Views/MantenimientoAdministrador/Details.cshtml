@@ -1,0 +1,26 @@
+﻿@model PuraFama.Models.administrador
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Administrador</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre_admin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre_admin)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.rut_admin }) |
+    @Html.ActionLink("Volver a la lista", "Index")
+</p>

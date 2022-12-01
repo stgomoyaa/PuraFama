@@ -1,0 +1,42 @@
+﻿@model PuraFama.Models.cliente
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre_cliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre_cliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.telefono_cliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.telefono_cliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.gastos_cliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.gastos_cliente)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.rut_cliente }) |
+    @Html.ActionLink("Volver a la lista", "Index")
+</p>

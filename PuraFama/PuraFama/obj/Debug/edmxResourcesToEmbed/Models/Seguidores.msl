@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bd_seguidoresModelStoreContainer" CdmEntityContainer="bd_seguidoresEntities">
+    <EntitySetMapping Name="administrador">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.administrador">
+        <MappingFragment StoreEntitySet="administrador">
+          <ScalarProperty Name="rut_admin" ColumnName="rut_admin" />
+          <ScalarProperty Name="nombre_admin" ColumnName="nombre_admin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cliente">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.cliente">
+        <MappingFragment StoreEntitySet="cliente">
+          <ScalarProperty Name="rut_cliente" ColumnName="rut_cliente" />
+          <ScalarProperty Name="nombre_cliente" ColumnName="nombre_cliente" />
+          <ScalarProperty Name="telefono_cliente" ColumnName="telefono_cliente" />
+          <ScalarProperty Name="gastos_cliente" ColumnName="gastos_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="disenador">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.disenador">
+        <MappingFragment StoreEntitySet="disenador">
+          <ScalarProperty Name="rut_disenador" ColumnName="rut_disenador" />
+          <ScalarProperty Name="nombre_disenador" ColumnName="nombre_disenador" />
+          <ScalarProperty Name="sueldo_disenador" ColumnName="sueldo_disenador" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="proveedor">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.proveedor">
+        <MappingFragment StoreEntitySet="proveedor">
+          <ScalarProperty Name="id_proveedor" ColumnName="id_proveedor" />
+          <ScalarProperty Name="nombre_proveedor" ColumnName="nombre_proveedor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="servicio">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.servicio">
+        <MappingFragment StoreEntitySet="servicio">
+          <ScalarProperty Name="id_servicio" ColumnName="id_servicio" />
+          <ScalarProperty Name="nombre_servicio" ColumnName="nombre_servicio" />
+          <ScalarProperty Name="precio_servicio" ColumnName="precio_servicio" />
+          <ScalarProperty Name="id_proveedor" ColumnName="id_proveedor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuario">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.usuario">
+        <MappingFragment StoreEntitySet="usuario">
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="nombre_usuario" ColumnName="nombre_usuario" />
+          <ScalarProperty Name="potencial_usuario" ColumnName="potencial_usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vendedor">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.vendedor">
+        <MappingFragment StoreEntitySet="vendedor">
+          <ScalarProperty Name="rut_vendedor" ColumnName="rut_vendedor" />
+          <ScalarProperty Name="nombre_vendedor" ColumnName="nombre_vendedor" />
+          <ScalarProperty Name="sueldo_vendedor" ColumnName="sueldo_vendedor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="venta">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.venta">
+        <MappingFragment StoreEntitySet="venta">
+          <ScalarProperty Name="id_venta" ColumnName="id_venta" />
+          <ScalarProperty Name="rut_cliente" ColumnName="rut_cliente" />
+          <ScalarProperty Name="id_servicio" ColumnName="id_servicio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="login">
+      <EntityTypeMapping TypeName="bd_seguidoresModel.login">
+        <MappingFragment StoreEntitySet="login">
+          <ScalarProperty Name="rut_administrador" ColumnName="rut_administrador" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

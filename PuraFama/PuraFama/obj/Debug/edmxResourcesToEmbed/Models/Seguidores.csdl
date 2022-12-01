@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bd_seguidoresModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="administrador">
+    <Key>
+      <PropertyRef Name="rut_admin" />
+    </Key>
+    <Property Name="rut_admin" Type="Int32" Nullable="false" />
+    <Property Name="nombre_admin" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="login" Relationship="Self.FK__login__rut_admin__6B24EA82" FromRole="administrador" ToRole="login" />
+  </EntityType>
+  <EntityType Name="cliente">
+    <Key>
+      <PropertyRef Name="rut_cliente" />
+    </Key>
+    <Property Name="rut_cliente" Type="Int32" Nullable="false" />
+    <Property Name="nombre_cliente" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono_cliente" Type="Int32" Nullable="false" />
+    <Property Name="gastos_cliente" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="venta" Relationship="Self.FK__venta__rut_clien__5EBF139D" FromRole="cliente" ToRole="venta" />
+  </EntityType>
+  <EntityType Name="disenador">
+    <Key>
+      <PropertyRef Name="rut_disenador" />
+    </Key>
+    <Property Name="rut_disenador" Type="Int32" Nullable="false" />
+    <Property Name="nombre_disenador" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sueldo_disenador" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="proveedor">
+    <Key>
+      <PropertyRef Name="id_proveedor" />
+    </Key>
+    <Property Name="id_proveedor" Type="Int32" Nullable="false" />
+    <Property Name="nombre_proveedor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="servicio" Relationship="Self.FK__servicio__id_pro__5BE2A6F2" FromRole="proveedor" ToRole="servicio" />
+  </EntityType>
+  <EntityType Name="servicio">
+    <Key>
+      <PropertyRef Name="id_servicio" />
+    </Key>
+    <Property Name="id_servicio" Type="Int32" Nullable="false" />
+    <Property Name="nombre_servicio" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="precio_servicio" Type="Int32" Nullable="false" />
+    <Property Name="id_proveedor" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="proveedor" Relationship="Self.FK__servicio__id_pro__5BE2A6F2" FromRole="servicio" ToRole="proveedor" />
+    <NavigationProperty Name="venta" Relationship="Self.FK__venta__id_servic__5FB337D6" FromRole="servicio" ToRole="venta" />
+  </EntityType>
+  <EntityType Name="usuario">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="Int32" Nullable="false" />
+    <Property Name="nombre_usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="potencial_usuario" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vendedor">
+    <Key>
+      <PropertyRef Name="rut_vendedor" />
+    </Key>
+    <Property Name="rut_vendedor" Type="Int32" Nullable="false" />
+    <Property Name="nombre_vendedor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sueldo_vendedor" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="venta">
+    <Key>
+      <PropertyRef Name="id_venta" />
+    </Key>
+    <Property Name="id_venta" Type="Int32" Nullable="false" />
+    <Property Name="rut_cliente" Type="Int32" Nullable="false" />
+    <Property Name="id_servicio" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="cliente" Relationship="Self.FK__venta__rut_clien__5EBF139D" FromRole="venta" ToRole="cliente" />
+    <NavigationProperty Name="servicio" Relationship="Self.FK__venta__id_servic__5FB337D6" FromRole="venta" ToRole="servicio" />
+  </EntityType>
+  <EntityType Name="login">
+    <Key>
+      <PropertyRef Name="rut_administrador" />
+      <PropertyRef Name="pass" />
+    </Key>
+    <Property Name="rut_administrador" Type="Int32" Nullable="false" />
+    <Property Name="pass" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="administrador" Relationship="Self.FK__login__rut_admin__6B24EA82" FromRole="login" ToRole="administrador" />
+  </EntityType>
+  <Association Name="FK__login__rut_admin__6B24EA82">
+    <End Role="administrador" Type="Self.administrador" Multiplicity="1" />
+    <End Role="login" Type="Self.login" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="administrador">
+        <PropertyRef Name="rut_admin" />
+      </Principal>
+      <Dependent Role="login">
+        <PropertyRef Name="rut_administrador" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__venta__rut_clien__5EBF139D">
+    <End Role="cliente" Type="Self.cliente" Multiplicity="1" />
+    <End Role="venta" Type="Self.venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="cliente">
+        <PropertyRef Name="rut_cliente" />
+      </Principal>
+      <Dependent Role="venta">
+        <PropertyRef Name="rut_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__servicio__id_pro__5BE2A6F2">
+    <End Role="proveedor" Type="Self.proveedor" Multiplicity="1" />
+    <End Role="servicio" Type="Self.servicio" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="proveedor">
+        <PropertyRef Name="id_proveedor" />
+      </Principal>
+      <Dependent Role="servicio">
+        <PropertyRef Name="id_proveedor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__venta__id_servic__5FB337D6">
+    <End Role="servicio" Type="Self.servicio" Multiplicity="1" />
+    <End Role="venta" Type="Self.venta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="servicio">
+        <PropertyRef Name="id_servicio" />
+      </Principal>
+      <Dependent Role="venta">
+        <PropertyRef Name="id_servicio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bd_seguidoresEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="administrador" EntityType="Self.administrador" />
+    <EntitySet Name="cliente" EntityType="Self.cliente" />
+    <EntitySet Name="disenador" EntityType="Self.disenador" />
+    <EntitySet Name="proveedor" EntityType="Self.proveedor" />
+    <EntitySet Name="servicio" EntityType="Self.servicio" />
+    <EntitySet Name="usuario" EntityType="Self.usuario" />
+    <EntitySet Name="vendedor" EntityType="Self.vendedor" />
+    <EntitySet Name="venta" EntityType="Self.venta" />
+    <EntitySet Name="login" EntityType="Self.login" />
+    <AssociationSet Name="FK__login__rut_admin__6B24EA82" Association="Self.FK__login__rut_admin__6B24EA82">
+      <End Role="administrador" EntitySet="administrador" />
+      <End Role="login" EntitySet="login" />
+    </AssociationSet>
+    <AssociationSet Name="FK__venta__rut_clien__5EBF139D" Association="Self.FK__venta__rut_clien__5EBF139D">
+      <End Role="cliente" EntitySet="cliente" />
+      <End Role="venta" EntitySet="venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__servicio__id_pro__5BE2A6F2" Association="Self.FK__servicio__id_pro__5BE2A6F2">
+      <End Role="proveedor" EntitySet="proveedor" />
+      <End Role="servicio" EntitySet="servicio" />
+    </AssociationSet>
+    <AssociationSet Name="FK__venta__id_servic__5FB337D6" Association="Self.FK__venta__id_servic__5FB337D6">
+      <End Role="servicio" EntitySet="servicio" />
+      <End Role="venta" EntitySet="venta" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

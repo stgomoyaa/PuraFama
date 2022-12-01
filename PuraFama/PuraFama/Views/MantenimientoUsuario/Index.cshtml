@@ -1,0 +1,44 @@
+﻿@model IEnumerable<PuraFama.Models.usuario>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Inicio</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre_usuario)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.potencial_usuario)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.nombre_usuario)
+    </td>
+    @if (item.potencial_usuario == false)
+    {
+        <td>No</td>
+    }
+    else
+    {
+        <td>Si</td>
+    }
+    <td>
+        @Html.ActionLink("Editar", "Edit", new { id = item.id_usuario }) |
+        @Html.ActionLink("Detalles", "Details", new { id = item.id_usuario }) |
+        @Html.ActionLink("Eliminar", "Delete", new { id = item.id_usuario })
+    </td>
+</tr>
+}
+
+</table>

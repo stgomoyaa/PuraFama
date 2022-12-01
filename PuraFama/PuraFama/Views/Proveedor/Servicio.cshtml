@@ -1,0 +1,53 @@
+﻿@model IEnumerable<PuraFama.Models.servicio>
+
+@{
+    ViewBag.Title = "Servicio";
+}
+
+<h2>Servicio</h2>
+
+<hr/>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id_servicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre_servicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.precio_servicio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_proveedor)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_servicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre_servicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.precio_servicio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_proveedor)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Detalles", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Eliminar", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

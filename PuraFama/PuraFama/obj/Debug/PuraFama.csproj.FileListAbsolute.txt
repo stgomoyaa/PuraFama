@@ -1,0 +1,402 @@
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\PuraFama.dll.config
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\PuraFama.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\PuraFama.pdb
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\csc.exe
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\csc.exe.config
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\csc.rsp
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\csi.exe
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\csi.exe.config
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\csi.rsp
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.AppContext.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Console.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Net.Http.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\vbc.exe
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\vbc.exe.config
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\vbc.rsp
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Antlr3.Runtime.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\EntityFramework.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Newtonsoft.Json.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Owin.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Net.Http.Formatting.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Helpers.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Http.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Http.WebHost.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Mvc.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Optimization.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Razor.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.WebPages.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\WebGrease.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Helpers.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Mvc.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Optimization.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Razor.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.WebPages.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Newtonsoft.Json.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Antlr3.Runtime.pdb
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Net.Http.Formatting.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Http.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\System.Web.Http.WebHost.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\EntityFramework.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.Http.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.CopyComplete
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\obj\Debug\PuraFama.dll
+C:\Users\Alumnos\source\repos\PuraFama\PuraFama\obj\Debug\PuraFama.pdb
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\PuraFama.dll.config
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\PuraFama.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\PuraFama.pdb
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\csc.exe
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\csc.exe.config
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\csc.rsp
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\csi.exe
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\csi.exe.config
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\csi.rsp
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.AppContext.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Console.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Net.Http.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\vbc.exe
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\vbc.exe.config
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\vbc.rsp
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Antlr3.Runtime.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\EntityFramework.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Newtonsoft.Json.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Owin.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Net.Http.Formatting.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Helpers.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Http.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Http.WebHost.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Mvc.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Optimization.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Razor.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.WebPages.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\WebGrease.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Helpers.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Mvc.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Optimization.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Razor.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.WebPages.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Newtonsoft.Json.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Antlr3.Runtime.pdb
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Net.Http.Formatting.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Http.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\System.Web.Http.WebHost.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\EntityFramework.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.Http.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\obj\Debug\PuraFama.dll
+C:\Users\Alumnos\Desktop\PuraFama\PuraFama\obj\Debug\PuraFama.pdb
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\PuraFama.dll.config
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\PuraFama.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\PuraFama.pdb
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\csc.exe
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\csc.exe.config
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\csc.rsp
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\csi.exe
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\csi.exe.config
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\csi.rsp
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.AppContext.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Console.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.IO.Compression.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Net.Http.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Net.Sockets.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.ValueTuple.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\vbc.exe
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\vbc.exe.config
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\vbc.rsp
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\VBCSCompiler.exe
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Antlr3.Runtime.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\EntityFramework.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\EntityFramework.SqlServer.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Newtonsoft.Json.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Owin.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Net.Http.Formatting.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Helpers.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Http.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Http.WebHost.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Mvc.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Optimization.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Razor.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.WebPages.Deployment.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.WebPages.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.WebPages.Razor.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\WebGrease.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Helpers.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Mvc.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Optimization.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Razor.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.WebPages.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.WebPages.Deployment.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.WebPages.Razor.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Newtonsoft.Json.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Antlr3.Runtime.pdb
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Net.Http.Formatting.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Http.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\System.Web.Http.WebHost.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\EntityFramework.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\EntityFramework.SqlServer.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.Helpers.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.Mvc.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.Optimization.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.Razor.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.WebPages.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.Http.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.AssemblyReference.cache
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.CoreCompileInputs.cache
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\obj\Debug\PuraFama.csproj.CopyComplete
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\obj\Debug\PuraFama.dll
+C:\Users\stgom\OneDrive\U\Semestre 3\Programación .NET\Unidad II\Proyecto\PuraFama\PuraFama\obj\Debug\PuraFama.pdb

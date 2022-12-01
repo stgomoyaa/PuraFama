@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Venta Seguidores</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        .dropbtn {
+            background-color: #3498DB;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+            .dropbtn:hover, .dropbtn:focus {
+                background-color: #2980B9;
+            }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            min-width: 160px;
+            overflow: auto;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+        .dropdown a:hover {
+            background-color: #ddd;
+        }
+
+        .show {
+            display: block;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Seguidores", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+                    <li>@Html.ActionLink("Mostrar Proveedores", "Index", "Proveedor")</li>
+
+                    <li>@Html.ActionLink("Listar por Proveedor", "ListaMaestraProveedor", "Proveedor")</li>
+
+                    <li>@Html.ActionLink("Listar por Cliente", "ListaMaestraCliente", "Cliente")</li>
+
+                    <li>
+                        <div class="dropdown">
+                            <button onclick="myFunction()" class="dropbtn">Mantenimientos</button>
+                            <div id="myDropdown" class="dropdown-content">
+                                @Html.ActionLink("Mantenimiento Administrador", "Index", "MantenimientoAdministrador")
+                                @Html.ActionLink("Mantenimiento Cliente", "Index", "MantenimientoCliente")
+                                @Html.ActionLink("Mantenimiento Diseñador", "Index", "MantenimientoDisenador")
+                                @Html.ActionLink("Mantenimiento Proveedor", "Index", "MantenimientoProveedor")
+                                @Html.ActionLink("Mantenimiento Servicio", "Index", "MantenimientoServicio")
+                                @Html.ActionLink("Mantenimiento Usuario", "Index", "MantenimientoUsuario")
+                                @Html.ActionLink("Mantenimiento Vendedor", "Index", "MantenimientoVendedor")
+                                @Html.ActionLink("Mantenimiento Venta", "Index", "MantenimientoVenta")
+
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>@Html.ActionLink("Iniciar Sesión", "Validar", "Login" )</li>
+
+                    <script>
+                        function myFunction() {
+                            document.getElementById("myDropdown").classList.toggle("show");
+                        }
+
+                        // Close the dropdown if the user clicks outside of it
+                        window.onclick = function (event) {
+                            if (!event.target.matches('.dropbtn')) {
+                                var dropdowns = document.getElementsByClassName("dropdown-content");
+                                var i;
+                                for (i = 0; i < dropdowns.length; i++) {
+                                    var openDropdown = dropdowns[i];
+                                    if (openDropdown.classList.contains('show')) {
+                                        openDropdown.classList.remove('show');
+                                    }
+                                }
+                            }
+                        }
+                    </script>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Seguidores</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

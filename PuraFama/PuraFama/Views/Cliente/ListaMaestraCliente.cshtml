@@ -1,0 +1,54 @@
+﻿@model IEnumerable<PuraFama.Models.cliente>
+
+@{
+    ViewBag.Title = "ListaMaestraCliente";
+}
+
+<h2>Filtrar por rut del Cliente</h2>
+
+<hr />
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.rut_cliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre_cliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.telefono_cliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.gastos_cliente)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @*Html.DisplayFor(modelItem => item.rut_cliente)*@
+            @Html.ActionLink(Convert.ToString(item.rut_cliente), "Venta", new {cliente = item.rut_cliente})
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre_cliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.telefono_cliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.gastos_cliente)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Detalles", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Eliminar", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

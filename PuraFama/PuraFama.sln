@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuraFama", "PuraFama\PuraFama.csproj", "{19F7E629-C6FB-4EBF-976C-E6B4C4740F7C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3AC1E96B-476E-4E23-B8B7-6547288CCBA4} = {3AC1E96B-476E-4E23-B8B7-6547288CCBA4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_DB", "WS_DB\WS_DB.csproj", "{3AC1E96B-476E-4E23-B8B7-6547288CCBA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F7E629-C6FB-4EBF-976C-E6B4C4740F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F7E629-C6FB-4EBF-976C-E6B4C4740F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F7E629-C6FB-4EBF-976C-E6B4C4740F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F7E629-C6FB-4EBF-976C-E6B4C4740F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC1E96B-476E-4E23-B8B7-6547288CCBA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC1E96B-476E-4E23-B8B7-6547288CCBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC1E96B-476E-4E23-B8B7-6547288CCBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC1E96B-476E-4E23-B8B7-6547288CCBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B856F687-EB9C-4C63-9ED2-711A3D6E6EFE}
+	EndGlobalSection
+EndGlobal
